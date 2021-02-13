@@ -50,3 +50,16 @@
 43. 데이터 분석 함수로 순위 출력하기 (NTILE)
 44. 데이터 분석 함수로 순위 출력하기 (CUME_DIST)
 45. 데이터 분석 함수로 순위 출력하기 (LISTAGG)
+46. 데이터 분석 함수로 바로 전 행과 다음 행 출력하기 (LAG, LEAD)
+47. COLUMN을 ROW로 출력하기 (SUM + DECODE)
+48. COLUMN을 ROW로 출력하기 (PIVOT)
+49. ROW를 COLUMN으로 출력하기 (UNPIVOT)
+50. 데이터 분석 함수로 누적 데이터 출력하기 (SUM OVER)
+51. 데이터 분석 함수로 비율 출력하기 (RATIO_TO_REPORT)
+52. 데이터 분석 함수로 집계 결과 출력하기 (ROLLUP)
+53. 데이터 분석 함수로 집계 결과 출력하기 (CUBE)
+54. 데이터 분석 함수로 집계 결과 출력하기 (GROUPING SETS)
+55. 데이터 분석 함수로 출력 결과 넘버링 하기 (ROW_NUMBER)
+
+---
+
